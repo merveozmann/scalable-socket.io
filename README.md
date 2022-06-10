@@ -1,6 +1,26 @@
 
 # Scalable Socket.io
 
+#### Uygulama Çalıştırma ve Test Etme
+
+Web uygulamasını çalıştır
+
+```sh
+cd client
+npm start
+```
+Server uygulamasını çalıştır
+
+```sh
+cd server
+npm start
+```
+Server birim testleri çalıştır
+
+```sh
+cd server
+npm test
+```
 #### Uygulama Giriş Ekranı
 
 ![Uygulama Ekran Görüntüsü](https://github.com/merveozmann/scalable-socket.io/blob/master/image/1.PNG)
