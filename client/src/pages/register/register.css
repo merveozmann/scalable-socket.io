@@ -1,0 +1,31 @@
+.register__container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4rem;
+
+}
+.register__form{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    border: 3px solid #9e9e9e;
+    border-radius: 14px;
+    padding: 2rem;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    padding: 0.4rem 0.4rem;
+    border: 1px solid black;
+}
+.register__btn{
+    border: none;
+    background: #9a9ae3;
+    font-weight: 600;
+    padding: 0.4rem 0.8rem;
+    color: white;
+}
+select{
+    padding: 0.3rem 2rem;
+}
